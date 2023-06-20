@@ -14,8 +14,8 @@ A live demo of the Digital Sales Hub website can be accessed [here](https://utka
 
 ## Screenshots 📷
 
-![Screenshot 1](/path/to/screenshot-1.png)
-![Screenshot 2](/path/to/screenshot-2.png)
+![Screenshot 1](https://github.com/Utkarssh11/Digital-Sales-Hub/blob/main/Screenshot%20(337).png?raw=true)
+![Screenshot 2](https://github.com/Utkarssh11/Digital-Sales-Hub/blob/main/Screenshot%20(340).png?raw=true)
 
 ## Installation ⚙️
 
